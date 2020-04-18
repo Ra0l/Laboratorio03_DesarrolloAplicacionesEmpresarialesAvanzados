@@ -1,0 +1,17 @@
+
+Procedimeintos almacenados
+
+alter es para modificar
+create procedure usp_pedid 
+---aqui se declarana variables
+@idpedido int
+as
+begin
+----aqui pon tu consulta
+
+select * from detallesdepedidos where idpedido=@idpedido
+end
+
+--ya esta creado
+--falta ejecutar
+usp_pedid 10248

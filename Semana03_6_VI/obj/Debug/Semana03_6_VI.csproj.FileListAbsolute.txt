@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\bin\Debug\Semana03_6_VI.exe.config
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\bin\Debug\Semana03_6_VI.exe
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\bin\Debug\Semana03_6_VI.pdb
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI_MarkupCompile.cache
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI_MarkupCompile.lref
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.g.resources
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.exe
+C:\Users\TOSHIBA\source\repos\Semana03_6_VI\Semana03_6_VI\obj\Debug\Semana03_6_VI.pdb
